@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://890mj.github.io/metabolic-atlas/sitemap.xml
